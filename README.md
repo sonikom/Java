@@ -14,4 +14,5 @@
 3.	Собрать исполняемый jar и отправить на проверку
 
 Вариант задания
+
 ![Image alt](https://github.com/sonikom/Java/blob/%D0%A6%D0%B8%D0%BA%D0%BB%D1%8B/lab2.jpg)
