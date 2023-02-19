@@ -4,3 +4,5 @@
 Используемое программное обеспечение
 1.	JDK 1.5 и выше
 2.	Интегрированная среда разработки на Java
+
+![Image alt](https://github.com/sonikom/Java/blob/%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9/lab5.png)
