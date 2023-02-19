@@ -14,6 +14,8 @@
 2.	Проверить правильность работы программы
 3.	Собрать исполняемый jar и отправить на проверку
 
+![Image alt](https://github.com/sonikom/Java/blob/%D0%A6%D0%B8%D0%BA%D0%BB%D1%8B/lab2.jpg)
+
 
 Дополнительное задание
 1.	Написать реализацию для интерфейса rzp.oop.transaction.TransactionControllerExtra
